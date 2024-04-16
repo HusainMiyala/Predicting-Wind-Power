@@ -22,3 +22,5 @@ Utilized Scikit-learn and Statsmodels for multiple linear regression, yielding M
 Motivation:
 
 Harnessing data science principles to bolster sustainable energy production initiatives.
+
+![Actual vs Predicted Wind Power Graph](https://github.com/HusainMiyala/Predicting-Wind-Power/assets/98285048/8fdd4819-4a4d-43b5-ac0f-2bef06da375c)

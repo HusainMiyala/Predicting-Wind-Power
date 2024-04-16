@@ -25,3 +25,6 @@ Harnessing data science principles to bolster sustainable energy production init
 
 ![Actual vs Predicted Wind Power Graph](https://github.com/HusainMiyala/Predicting-Wind-Power/assets/98285048/8fdd4819-4a4d-43b5-ac0f-2bef06da375c)
 ![image](https://github.com/HusainMiyala/Predicting-Wind-Power/assets/98285048/ed02e828-36a7-40bf-b728-5f9a5acbb6fe)
+
+
+#Data Source: https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting/data?select=Location1.csv

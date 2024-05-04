@@ -13,7 +13,7 @@ Cleaned and organized 44,000-row, 10-column dataset with Pandas.
 
 Conducted exploratory data analysis and visualization for insights.
 
-Employed feature selection and train/test split for modeling.
+Employed feature selection and train/test split for predictive modeling.
 
 Utilized Scikit-learn and Statsmodels for multiple linear regression, yielding MAE of 0.14.
 

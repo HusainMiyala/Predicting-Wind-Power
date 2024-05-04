@@ -5,7 +5,6 @@
 
 ###### Apply machine learning techniques in Python to forecast wind power production.
 
-​
 
 ### Technical Specs:
 
@@ -18,7 +17,6 @@
 ###### Utilized Scikit-learn and Statsmodels for multiple linear regression, yielding MAE of 0.14.
 
 ​
-
 ### Motivation:
 
 ###### Harnessing data science principles to bolster sustainable energy production initiatives.

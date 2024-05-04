@@ -29,4 +29,4 @@ Full Report: https://hkmiyala52.wixsite.com/hmds/wind-project
 ![image](https://github.com/HusainMiyala/Predicting-Wind-Power/assets/98285048/ed02e828-36a7-40bf-b728-5f9a5acbb6fe)
 
 
-#Data Source: https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting/data?select=Location1.csv
+Data Source: https://www.kaggle.com/datasets/mubashirrahim/wind-power-generation-data-forecasting/data?select=Location1.csv

@@ -1,4 +1,4 @@
-# Predicting-Wind-Power
+# Predictive Modeling: Predicting-Wind-Power
 # Tech Stack: Python, Pandas, Numpy, Matplotlib, Bokeh, Scikitlearn, Statsmodels
 
 Objective:
